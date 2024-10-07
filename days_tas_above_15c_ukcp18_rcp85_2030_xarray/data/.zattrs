@@ -1,0 +1,24 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "lat",
+        "lon"
+    ],
+    "coordinates": "spatial_ref",
+    "crs": "EPSG:4326",
+    "dimensions": [
+        "index",
+        "latitude",
+        "longitude"
+    ],
+    "transform_mat3x3": [
+        0.14446886199668238,
+        0.0,
+        -13.263204470406675,
+        0.0,
+        -0.1444688619966824,
+        61.005717381845294,
+        0.0,
+        0.0,
+        1.0
+    ]
+}
